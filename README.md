@@ -12,13 +12,6 @@
 ![](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)
 
 
-### GitHub Analytics
-
-<a href="https://github.com/mstgnz">
-  <img src="https://github-readme-stats.vercel.app/api?username=mstgnz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="github analytics for mesut genez">
-</a>
-
-
 <!--
 **mstgnz/mstgnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
