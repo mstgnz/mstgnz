@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)
 ![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 
 ![](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=postgresql)
